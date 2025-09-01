@@ -1,0 +1,2 @@
+for test case 1: secret = 3
+for test case 2 : secret = -9223372036854775808
